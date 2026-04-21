@@ -1,21 +1,19 @@
-
- #!/bin/bash
+#!/bin/bash
 
 IMAGE="cloture/json-server"
-BASE_PORT=3100
+BASE_PORT=3000
 TEMPLATE="student_data/template.json"
 
-for i in {1..60}
+# Använd seq istället för {1..60} för bättre kompabilitet
+for i in $(seq 1 60)
 do
   PORT=$((BASE_PORT + i))
   STUDENT_DB="student_data/db_student_$i.json"
   
-  # 1. Skapa en unik kopia av datan för eleven om den inte redan finns
   if [ ! -f "$STUDENT_DB" ]; then
     cp "$TEMPLATE" "$STUDENT_DB"
   fi
 
-  # 2. Starta containern
   docker run -d \
     --name "elev-server-$i" \
     -p "$PORT:3000" \
