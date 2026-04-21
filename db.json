@@ -34,7 +34,7 @@
       "publishedYear": 2020,
       "isbn": "9781000000003",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "4",
@@ -202,7 +202,7 @@
       "publishedYear": 2021,
       "isbn": "9781000000017",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "18",
@@ -274,7 +274,7 @@
       "publishedYear": 2021,
       "isbn": "9781000000023",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "24",
@@ -346,7 +346,7 @@
       "publishedYear": 2022,
       "isbn": "9781000000029",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "30",
@@ -418,7 +418,7 @@
       "publishedYear": 2021,
       "isbn": "9781000000035",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "36",
@@ -478,7 +478,7 @@
       "publishedYear": 2017,
       "isbn": "9781000000040",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "41",
@@ -562,7 +562,7 @@
       "publishedYear": 2018,
       "isbn": "9781000000047",
       "language": "English",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "48",
@@ -663,7 +663,7 @@
       "category": "Nature",
       "publishedMonth": "August",
       "publishedYear": 2025,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "8",
@@ -717,7 +717,7 @@
       "category": "Gaming",
       "publishedMonth": "June",
       "publishedYear": 2025,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "14",
@@ -762,7 +762,7 @@
       "category": "Travel",
       "publishedMonth": "March",
       "publishedYear": 2025,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "19",
@@ -801,7 +801,7 @@
       "genre": "Rock",
       "tracks": 12,
       "releaseYear": 2021,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "3",
@@ -811,7 +811,7 @@
       "minutes": 117,
       "age": 11,
       "director": "Samuel Bright",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "4",
@@ -859,7 +859,7 @@
       "genre": "Adventure",
       "platform": "Nintendo Switch",
       "age": 7,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "9",
@@ -908,7 +908,7 @@
       "minutes": 140,
       "age": 13,
       "director": "Elena Brooks",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "14",
@@ -946,7 +946,7 @@
       "genre": "Simulation",
       "platform": "PlayStation 5",
       "age": 7,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "18",
@@ -985,7 +985,7 @@
       "genre": "Folk",
       "tracks": 8,
       "releaseYear": 2021,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "22",
@@ -1053,7 +1053,7 @@
       "minutes": 119,
       "age": 15,
       "director": "Jacob West",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "29",
@@ -1239,7 +1239,7 @@
       "id": "1",
       "userId": "101",
       "itemType": "media",
-      "itemId": "2",
+      "itemId": "8",
       "borrowedAt": "2026-04-01",
       "dueDate": "2026-04-15",
       "returned": false
@@ -1248,217 +1248,10 @@
       "id": "2",
       "userId": "101",
       "itemType": "media",
-      "itemId": "3",
+      "itemId": "13",
       "borrowedAt": "2026-04-03",
       "dueDate": "2026-04-17",
       "returned": false
-    },
-    {
-      "id": "3",
-      "userId": "103",
-      "itemType": "book",
-      "itemId": "3",
-      "borrowedAt": "2026-04-05",
-      "dueDate": "2026-04-19",
-      "returned": false
-    },
-    {
-      "id": "4",
-      "userId": "103",
-      "itemType": "magazine",
-      "itemId": "3",
-      "borrowedAt": "2026-03-20",
-      "dueDate": "2026-04-03",
-      "returned": true
-    },
-    {
-      "id": "5",
-      "userId": "104",
-      "itemType": "media",
-      "itemId": "8",
-      "borrowedAt": "2026-04-02",
-      "dueDate": "2026-04-16",
-      "returned": false
-    },
-    {
-      "id": "6",
-      "userId": "105",
-      "itemType": "book",
-      "itemId": "8",
-      "borrowedAt": "2026-04-01",
-      "dueDate": "2026-04-15",
-      "returned": false
-    },
-    {
-      "id": "7",
-      "userId": "106",
-      "itemType": "book",
-      "itemId": "13",
-      "borrowedAt": "2026-03-25",
-      "dueDate": "2026-04-08",
-      "returned": false
-    },
-    {
-      "id": "8",
-      "userId": "108",
-      "itemType": "media",
-      "itemId": "13",
-      "borrowedAt": "2026-04-04",
-      "dueDate": "2026-04-18",
-      "returned": false
-    },
-    {
-      "id": "9",
-      "userId": "109",
-      "itemType": "book",
-      "itemId": "17",
-      "borrowedAt": "2026-03-30",
-      "dueDate": "2026-04-13",
-      "returned": false
-    },
-    {
-      "id": "10",
-      "userId": "110",
-      "itemType": "book",
-      "itemId": "23",
-      "borrowedAt": "2026-04-06",
-      "dueDate": "2026-04-20",
-      "returned": false
-    },
-    {
-      "id": "11",
-      "userId": "112",
-      "itemType": "book",
-      "itemId": "29",
-      "borrowedAt": "2026-04-07",
-      "dueDate": "2026-04-21",
-      "returned": false
-    },
-    {
-      "id": "12",
-      "userId": "113",
-      "itemType": "book",
-      "itemId": "35",
-      "borrowedAt": "2026-04-01",
-      "dueDate": "2026-04-15",
-      "returned": false
-    },
-    {
-      "id": "13",
-      "userId": "101",
-      "itemType": "book",
-      "itemId": "40",
-      "borrowedAt": "2026-03-27",
-      "dueDate": "2026-04-10",
-      "returned": false
-    },
-    {
-      "id": "14",
-      "userId": "104",
-      "itemType": "book",
-      "itemId": "47",
-      "borrowedAt": "2026-04-02",
-      "dueDate": "2026-04-16",
-      "returned": false
-    },
-    {
-      "id": "15",
-      "userId": "105",
-      "itemType": "magazine",
-      "itemId": "7",
-      "borrowedAt": "2026-04-03",
-      "dueDate": "2026-04-10",
-      "returned": false
-    },
-    {
-      "id": "16",
-      "userId": "106",
-      "itemType": "magazine",
-      "itemId": "13",
-      "borrowedAt": "2026-04-01",
-      "dueDate": "2026-04-08",
-      "returned": false
-    },
-    {
-      "id": "17",
-      "userId": "108",
-      "itemType": "magazine",
-      "itemId": "18",
-      "borrowedAt": "2026-03-29",
-      "dueDate": "2026-04-05",
-      "returned": false
-    },
-    {
-      "id": "18",
-      "userId": "109",
-      "itemType": "media",
-      "itemId": "17",
-      "borrowedAt": "2026-04-04",
-      "dueDate": "2026-04-18",
-      "returned": false
-    },
-    {
-      "id": "19",
-      "userId": "110",
-      "itemType": "media",
-      "itemId": "21",
-      "borrowedAt": "2026-04-05",
-      "dueDate": "2026-04-19",
-      "returned": false
-    },
-    {
-      "id": "20",
-      "userId": "112",
-      "itemType": "media",
-      "itemId": "28",
-      "borrowedAt": "2026-04-06",
-      "dueDate": "2026-04-20",
-      "returned": false
-    },
-    {
-      "id": "21",
-      "userId": "113",
-      "itemType": "book",
-      "itemId": "17",
-      "borrowedAt": "2026-03-10",
-      "dueDate": "2026-03-24",
-      "returned": true
-    },
-    {
-      "id": "22",
-      "userId": "101",
-      "itemType": "media",
-      "itemId": "3",
-      "borrowedAt": "2026-02-10",
-      "dueDate": "2026-02-24",
-      "returned": true
-    },
-    {
-      "id": "23",
-      "userId": "104",
-      "itemType": "book",
-      "itemId": "23",
-      "borrowedAt": "2026-01-15",
-      "dueDate": "2026-01-29",
-      "returned": true
-    },
-    {
-      "id": "24",
-      "userId": "105",
-      "itemType": "media",
-      "itemId": "8",
-      "borrowedAt": "2026-03-01",
-      "dueDate": "2026-03-15",
-      "returned": true
-    },
-    {
-      "id": "25",
-      "userId": "106",
-      "itemType": "magazine",
-      "itemId": "3",
-      "borrowedAt": "2026-02-22",
-      "dueDate": "2026-03-01",
-      "returned": true
     }
   ]
 }

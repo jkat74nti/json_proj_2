@@ -1,0 +1,1257 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "type": "book",
+      "title": "Ringo with License to Please",
+      "genre": "Crime",
+      "pages": 450,
+      "author": "James Carter",
+      "publishedYear": 2019,
+      "isbn": "9781000000001",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "type": "book",
+      "title": "Ringo Can Read",
+      "genre": "Drama",
+      "pages": 250,
+      "author": "Emily Stone",
+      "publishedYear": 2021,
+      "isbn": "9781000000002",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "3",
+      "type": "book",
+      "title": "The Silent Witness",
+      "genre": "Crime",
+      "pages": 320,
+      "author": "Daniel Harper",
+      "publishedYear": 2020,
+      "isbn": "9781000000003",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "4",
+      "type": "book",
+      "title": "Shadows in the Fog",
+      "genre": "Mystery",
+      "pages": 410,
+      "author": "Olivia Hart",
+      "publishedYear": 2018,
+      "isbn": "9781000000004",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "5",
+      "type": "book",
+      "title": "Beyond the Horizon",
+      "genre": "Adventure",
+      "pages": 380,
+      "author": "Nathan Brooks",
+      "publishedYear": 2022,
+      "isbn": "9781000000005",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "6",
+      "type": "book",
+      "title": "Love in Autumn",
+      "genre": "Romance",
+      "pages": 275,
+      "author": "Sophia Lane",
+      "publishedYear": 2021,
+      "isbn": "9781000000006",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "7",
+      "type": "book",
+      "title": "The Last Kingdom",
+      "genre": "Fantasy",
+      "pages": 520,
+      "author": "Sarah Collins",
+      "publishedYear": 2017,
+      "isbn": "9781000000007",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "8",
+      "type": "book",
+      "title": "Midnight Streets",
+      "genre": "Thriller",
+      "pages": 340,
+      "author": "Noah Bennett",
+      "publishedYear": 2020,
+      "isbn": "9781000000008",
+      "language": "English",
+      "isAvailable": false
+    },
+    {
+      "id": "9",
+      "type": "book",
+      "title": "The Hidden Code",
+      "genre": "Science Fiction",
+      "pages": 460,
+      "author": "Michael Reed",
+      "publishedYear": 2022,
+      "isbn": "9781000000009",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "10",
+      "type": "book",
+      "title": "Broken Promises",
+      "genre": "Drama",
+      "pages": 290,
+      "author": "Rachel Moore",
+      "publishedYear": 2019,
+      "isbn": "9781000000010",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "11",
+      "type": "book",
+      "title": "The Secret Garden Path",
+      "genre": "Romance",
+      "pages": 310,
+      "author": "Clara West",
+      "publishedYear": 2018,
+      "isbn": "9781000000011",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "12",
+      "type": "book",
+      "title": "Fire Over the Mountains",
+      "genre": "Adventure",
+      "pages": 430,
+      "author": "Lucas Grant",
+      "publishedYear": 2020,
+      "isbn": "9781000000012",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "13",
+      "type": "book",
+      "title": "The Empty Room",
+      "genre": "Horror",
+      "pages": 280,
+      "author": "Megan Price",
+      "publishedYear": 2021,
+      "isbn": "9781000000013",
+      "language": "English",
+      "isAvailable": false
+    },
+    {
+      "id": "14",
+      "type": "book",
+      "title": "A Winter to Remember",
+      "genre": "Drama",
+      "pages": 350,
+      "author": "Emma Hayes",
+      "publishedYear": 2023,
+      "isbn": "9781000000014",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "15",
+      "type": "book",
+      "title": "The Iron Crown",
+      "genre": "Fantasy",
+      "pages": 610,
+      "author": "Henry Ward",
+      "publishedYear": 2016,
+      "isbn": "9781000000015",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "16",
+      "type": "book",
+      "title": "Dark Waters",
+      "genre": "Thriller",
+      "pages": 390,
+      "author": "Logan Pierce",
+      "publishedYear": 2019,
+      "isbn": "9781000000016",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "17",
+      "type": "book",
+      "title": "The Lost Planet",
+      "genre": "Science Fiction",
+      "pages": 470,
+      "author": "Ethan Blake",
+      "publishedYear": 2021,
+      "isbn": "9781000000017",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "18",
+      "type": "book",
+      "title": "Echoes of Yesterday",
+      "genre": "Drama",
+      "pages": 260,
+      "author": "Lily Parker",
+      "publishedYear": 2020,
+      "isbn": "9781000000018",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "19",
+      "type": "book",
+      "title": "The Golden Compass Rose",
+      "genre": "Adventure",
+      "pages": 440,
+      "author": "Aiden Ross",
+      "publishedYear": 2022,
+      "isbn": "9781000000019",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "20",
+      "type": "book",
+      "title": "Whispers at Dawn",
+      "genre": "Mystery",
+      "pages": 300,
+      "author": "Hannah Cole",
+      "publishedYear": 2017,
+      "isbn": "9781000000020",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "21",
+      "type": "book",
+      "title": "Moonlight Sonata",
+      "genre": "Romance",
+      "pages": 240,
+      "author": "Isabella Scott",
+      "publishedYear": 2022,
+      "isbn": "9781000000021",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "22",
+      "type": "book",
+      "title": "The Forgotten Castle",
+      "genre": "Fantasy",
+      "pages": 560,
+      "author": "William Drake",
+      "publishedYear": 2018,
+      "isbn": "9781000000022",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "23",
+      "type": "book",
+      "title": "Dead End Road",
+      "genre": "Crime",
+      "pages": 330,
+      "author": "Grace Turner",
+      "publishedYear": 2021,
+      "isbn": "9781000000023",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "24",
+      "type": "book",
+      "title": "Stormbreaker Island",
+      "genre": "Adventure",
+      "pages": 410,
+      "author": "Owen Clark",
+      "publishedYear": 2019,
+      "isbn": "9781000000024",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "25",
+      "type": "book",
+      "title": "The Glass Key",
+      "genre": "Mystery",
+      "pages": 295,
+      "author": "Natalie Quinn",
+      "publishedYear": 2020,
+      "isbn": "9781000000025",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "26",
+      "type": "book",
+      "title": "City of Ashes",
+      "genre": "Fantasy",
+      "pages": 490,
+      "author": "Levi Morgan",
+      "publishedYear": 2023,
+      "isbn": "9781000000026",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "27",
+      "type": "book",
+      "title": "The Crimson Hour",
+      "genre": "Horror",
+      "pages": 310,
+      "author": "Zoe Ellis",
+      "publishedYear": 2021,
+      "isbn": "9781000000027",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "28",
+      "type": "book",
+      "title": "Threads of Fate",
+      "genre": "Drama",
+      "pages": 370,
+      "author": "Victoria Lane",
+      "publishedYear": 2018,
+      "isbn": "9781000000028",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "29",
+      "type": "book",
+      "title": "The Quantum Voyage",
+      "genre": "Science Fiction",
+      "pages": 540,
+      "author": "Isaac Rowan",
+      "publishedYear": 2022,
+      "isbn": "9781000000029",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "30",
+      "type": "book",
+      "title": "A Place Called Home",
+      "genre": "Romance",
+      "pages": 280,
+      "author": "Madeline Frost",
+      "publishedYear": 2020,
+      "isbn": "9781000000030",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "31",
+      "type": "book",
+      "title": "Beneath the Ice",
+      "genre": "Thriller",
+      "pages": 360,
+      "author": "Julian Cross",
+      "publishedYear": 2021,
+      "isbn": "9781000000031",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "32",
+      "type": "book",
+      "title": "The Raven's Mark",
+      "genre": "Fantasy",
+      "pages": 580,
+      "author": "Abigail North",
+      "publishedYear": 2019,
+      "isbn": "9781000000032",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "33",
+      "type": "book",
+      "title": "Crossing the Line",
+      "genre": "Crime",
+      "pages": 345,
+      "author": "Benjamin Hall",
+      "publishedYear": 2023,
+      "isbn": "9781000000033",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "34",
+      "type": "book",
+      "title": "The Last Broadcast",
+      "genre": "Science Fiction",
+      "pages": 420,
+      "author": "Christopher Wade",
+      "publishedYear": 2018,
+      "isbn": "9781000000034",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "35",
+      "type": "book",
+      "title": "Summer of Secrets",
+      "genre": "Drama",
+      "pages": 315,
+      "author": "Ella Monroe",
+      "publishedYear": 2021,
+      "isbn": "9781000000035",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "36",
+      "type": "book",
+      "title": "The Hollow Tree",
+      "genre": "Horror",
+      "pages": 290,
+      "author": "Jack Foster",
+      "publishedYear": 2020,
+      "isbn": "9781000000036",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "37",
+      "type": "book",
+      "title": "Map of the Stars",
+      "genre": "Adventure",
+      "pages": 460,
+      "author": "Scarlett Young",
+      "publishedYear": 2022,
+      "isbn": "9781000000037",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "38",
+      "type": "book",
+      "title": "The Velvet Letter",
+      "genre": "Romance",
+      "pages": 255,
+      "author": "Nora Bell",
+      "publishedYear": 2019,
+      "isbn": "9781000000038",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "39",
+      "type": "book",
+      "title": "No Turning Back",
+      "genre": "Thriller",
+      "pages": 400,
+      "author": "Ryan Brooks",
+      "publishedYear": 2022,
+      "isbn": "9781000000039",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "40",
+      "type": "book",
+      "title": "The Crystal Empire",
+      "genre": "Fantasy",
+      "pages": 630,
+      "author": "Charlotte Knight",
+      "publishedYear": 2017,
+      "isbn": "9781000000040",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "41",
+      "type": "book",
+      "title": "Fragments of Truth",
+      "genre": "Mystery",
+      "pages": 325,
+      "author": "Thomas Reed",
+      "publishedYear": 2020,
+      "isbn": "9781000000041",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "42",
+      "type": "book",
+      "title": "Under Scarlet Skies",
+      "genre": "Romance",
+      "pages": 295,
+      "author": "Ava Sullivan",
+      "publishedYear": 2021,
+      "isbn": "9781000000042",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "43",
+      "type": "book",
+      "title": "The Machine Awakens",
+      "genre": "Science Fiction",
+      "pages": 510,
+      "author": "Mason Riley",
+      "publishedYear": 2023,
+      "isbn": "9781000000043",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "44",
+      "type": "book",
+      "title": "The Broken Compass",
+      "genre": "Adventure",
+      "pages": 390,
+      "author": "Dylan Cooper",
+      "publishedYear": 2019,
+      "isbn": "9781000000044",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "45",
+      "type": "book",
+      "title": "Cold Case River",
+      "genre": "Crime",
+      "pages": 355,
+      "author": "Sophie Reed",
+      "publishedYear": 2022,
+      "isbn": "9781000000045",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "46",
+      "type": "book",
+      "title": "Ashes of Winter",
+      "genre": "Drama",
+      "pages": 340,
+      "author": "Caleb Hayes",
+      "publishedYear": 2020,
+      "isbn": "9781000000046",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "47",
+      "type": "book",
+      "title": "The Lantern Keeper",
+      "genre": "Fantasy",
+      "pages": 550,
+      "author": "Elena Frost",
+      "publishedYear": 2018,
+      "isbn": "9781000000047",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "48",
+      "type": "book",
+      "title": "Nightfall Manor",
+      "genre": "Horror",
+      "pages": 305,
+      "author": "Jason Black",
+      "publishedYear": 2021,
+      "isbn": "9781000000048",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "49",
+      "type": "book",
+      "title": "Parallel Dreams",
+      "genre": "Science Fiction",
+      "pages": 445,
+      "author": "Evelyn Stone",
+      "publishedYear": 2022,
+      "isbn": "9781000000049",
+      "language": "English",
+      "isAvailable": true
+    },
+    {
+      "id": "50",
+      "type": "book",
+      "title": "The Secret Between Us",
+      "genre": "Romance",
+      "pages": 270,
+      "author": "Harper Lane",
+      "publishedYear": 2023,
+      "isbn": "9781000000050",
+      "language": "English",
+      "isAvailable": true
+    }
+  ],
+  "magazines": [
+    {
+      "id": "1",
+      "title": "Tech World",
+      "issueNumber": 12,
+      "category": "Technology",
+      "publishedMonth": "December",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "title": "Tech World",
+      "issueNumber": 11,
+      "category": "Technology",
+      "publishedMonth": "November",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "3",
+      "title": "Science Weekly",
+      "issueNumber": 44,
+      "category": "Science",
+      "publishedMonth": "October",
+      "publishedYear": 2025,
+      "isAvailable": false
+    },
+    {
+      "id": "4",
+      "title": "Game Monthly",
+      "issueNumber": 7,
+      "category": "Gaming",
+      "publishedMonth": "July",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "5",
+      "title": "History Review",
+      "issueNumber": 3,
+      "category": "History",
+      "publishedMonth": "March",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "6",
+      "title": "Creative Coding",
+      "issueNumber": 19,
+      "category": "Programming",
+      "publishedMonth": "September",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "7",
+      "title": "Nature Today",
+      "issueNumber": 22,
+      "category": "Nature",
+      "publishedMonth": "August",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "8",
+      "title": "Cinema Journal",
+      "issueNumber": 14,
+      "category": "Movies",
+      "publishedMonth": "June",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "9",
+      "title": "Music Culture",
+      "issueNumber": 9,
+      "category": "Music",
+      "publishedMonth": "May",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "10",
+      "title": "Travel Explorer",
+      "issueNumber": 16,
+      "category": "Travel",
+      "publishedMonth": "April",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "11",
+      "title": "Tech World",
+      "issueNumber": 10,
+      "category": "Technology",
+      "publishedMonth": "October",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "12",
+      "title": "Science Weekly",
+      "issueNumber": 43,
+      "category": "Science",
+      "publishedMonth": "September",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "13",
+      "title": "Game Monthly",
+      "issueNumber": 6,
+      "category": "Gaming",
+      "publishedMonth": "June",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "14",
+      "title": "Creative Coding",
+      "issueNumber": 18,
+      "category": "Programming",
+      "publishedMonth": "August",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "15",
+      "title": "Nature Today",
+      "issueNumber": 21,
+      "category": "Nature",
+      "publishedMonth": "July",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "16",
+      "title": "Cinema Journal",
+      "issueNumber": 13,
+      "category": "Movies",
+      "publishedMonth": "May",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "17",
+      "title": "Music Culture",
+      "issueNumber": 8,
+      "category": "Music",
+      "publishedMonth": "April",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "18",
+      "title": "Travel Explorer",
+      "issueNumber": 15,
+      "category": "Travel",
+      "publishedMonth": "March",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "19",
+      "title": "History Review",
+      "issueNumber": 2,
+      "category": "History",
+      "publishedMonth": "February",
+      "publishedYear": 2025,
+      "isAvailable": true
+    },
+    {
+      "id": "20",
+      "title": "Creative Coding",
+      "issueNumber": 17,
+      "category": "Programming",
+      "publishedMonth": "July",
+      "publishedYear": 2025,
+      "isAvailable": true
+    }
+  ],
+  "media": [
+    {
+      "id": "1",
+      "type": "game",
+      "title": "Shooting Star",
+      "genre": "Action",
+      "platform": "PlayStation 5",
+      "age": 15,
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "type": "music_album",
+      "artist": "Leo van Hal",
+      "title": "Guitar Heroes",
+      "genre": "Rock",
+      "tracks": 12,
+      "releaseYear": 2021,
+      "isAvailable": true
+    },
+    {
+      "id": "3",
+      "type": "movie",
+      "title": "Learn Python",
+      "genre": "Comedy",
+      "minutes": 117,
+      "age": 11,
+      "director": "Samuel Bright",
+      "isAvailable": true
+    },
+    {
+      "id": "4",
+      "type": "movie",
+      "title": "The Final Signal",
+      "genre": "Science Fiction",
+      "minutes": 132,
+      "age": 13,
+      "director": "Nina Blake",
+      "isAvailable": true
+    },
+    {
+      "id": "5",
+      "type": "game",
+      "title": "Pixel Racer",
+      "genre": "Racing",
+      "platform": "PC",
+      "age": 7,
+      "isAvailable": true
+    },
+    {
+      "id": "6",
+      "type": "music_album",
+      "artist": "Clara North",
+      "title": "Midnight Echoes",
+      "genre": "Pop",
+      "tracks": 10,
+      "releaseYear": 2023,
+      "isAvailable": true
+    },
+    {
+      "id": "7",
+      "type": "movie",
+      "title": "Hidden Formula",
+      "genre": "Drama",
+      "minutes": 108,
+      "age": 11,
+      "director": "Oliver Finch",
+      "isAvailable": true
+    },
+    {
+      "id": "8",
+      "type": "game",
+      "title": "Castle Run",
+      "genre": "Adventure",
+      "platform": "Nintendo Switch",
+      "age": 7,
+      "isAvailable": true
+    },
+    {
+      "id": "9",
+      "type": "music_album",
+      "artist": "Nova Bloom",
+      "title": "Electric Summer",
+      "genre": "Electronic",
+      "tracks": 14,
+      "releaseYear": 2022,
+      "isAvailable": true
+    },
+    {
+      "id": "10",
+      "type": "movie",
+      "title": "Shadow Street",
+      "genre": "Thriller",
+      "minutes": 124,
+      "age": 15,
+      "director": "Marcus Dale",
+      "isAvailable": true
+    },
+    {
+      "id": "11",
+      "type": "game",
+      "title": "Cyber Drift",
+      "genre": "Racing",
+      "platform": "Xbox Series X",
+      "age": 11,
+      "isAvailable": true
+    },
+    {
+      "id": "12",
+      "type": "music_album",
+      "artist": "The Velvet Suns",
+      "title": "Golden Noise",
+      "genre": "Indie",
+      "tracks": 11,
+      "releaseYear": 2020,
+      "isAvailable": true
+    },
+    {
+      "id": "13",
+      "type": "movie",
+      "title": "Deep Orbit",
+      "genre": "Science Fiction",
+      "minutes": 140,
+      "age": 13,
+      "director": "Elena Brooks",
+      "isAvailable": true
+    },
+    {
+      "id": "14",
+      "type": "game",
+      "title": "Dungeon Code",
+      "genre": "Role-Playing",
+      "platform": "PC",
+      "age": 15,
+      "isAvailable": true
+    },
+    {
+      "id": "15",
+      "type": "music_album",
+      "artist": "Leo van Hal",
+      "title": "Strings of Fire",
+      "genre": "Rock",
+      "tracks": 9,
+      "releaseYear": 2019,
+      "isAvailable": true
+    },
+    {
+      "id": "16",
+      "type": "movie",
+      "title": "Last Page",
+      "genre": "Mystery",
+      "minutes": 116,
+      "age": 13,
+      "director": "Carla North",
+      "isAvailable": true
+    },
+    {
+      "id": "17",
+      "type": "game",
+      "title": "Rocket Academy",
+      "genre": "Simulation",
+      "platform": "PlayStation 5",
+      "age": 7,
+      "isAvailable": true
+    },
+    {
+      "id": "18",
+      "type": "music_album",
+      "artist": "Echo Harbor",
+      "title": "City Lights",
+      "genre": "Pop",
+      "tracks": 13,
+      "releaseYear": 2024,
+      "isAvailable": true
+    },
+    {
+      "id": "19",
+      "type": "movie",
+      "title": "Laugh Protocol",
+      "genre": "Comedy",
+      "minutes": 102,
+      "age": 7,
+      "director": "Simon Frost",
+      "isAvailable": true
+    },
+    {
+      "id": "20",
+      "type": "game",
+      "title": "Forest Quest",
+      "genre": "Adventure",
+      "platform": "Nintendo Switch",
+      "age": 7,
+      "isAvailable": true
+    },
+    {
+      "id": "21",
+      "type": "music_album",
+      "artist": "Aria Vale",
+      "title": "Northern Sky",
+      "genre": "Folk",
+      "tracks": 8,
+      "releaseYear": 2021,
+      "isAvailable": true
+    },
+    {
+      "id": "22",
+      "type": "movie",
+      "title": "Code of Silence",
+      "genre": "Crime",
+      "minutes": 128,
+      "age": 15,
+      "director": "Victor Lane",
+      "isAvailable": true
+    },
+    {
+      "id": "23",
+      "type": "game",
+      "title": "Battle Forge",
+      "genre": "Strategy",
+      "platform": "PC",
+      "age": 12,
+      "isAvailable": true
+    },
+    {
+      "id": "24",
+      "type": "music_album",
+      "artist": "Blue Arcade",
+      "title": "Night Signals",
+      "genre": "Synthwave",
+      "tracks": 10,
+      "releaseYear": 2023,
+      "isAvailable": true
+    },
+    {
+      "id": "25",
+      "type": "movie",
+      "title": "Winter Lines",
+      "genre": "Drama",
+      "minutes": 111,
+      "age": 11,
+      "director": "Hannah Shore",
+      "isAvailable": true
+    },
+    {
+      "id": "26",
+      "type": "game",
+      "title": "Galaxy Builders",
+      "genre": "Simulation",
+      "platform": "Xbox Series X",
+      "age": 7,
+      "isAvailable": true
+    },
+    {
+      "id": "27",
+      "type": "music_album",
+      "artist": "Clara North",
+      "title": "Glass Hearts",
+      "genre": "Pop",
+      "tracks": 12,
+      "releaseYear": 2020,
+      "isAvailable": true
+    },
+    {
+      "id": "28",
+      "type": "movie",
+      "title": "The Hidden Frame",
+      "genre": "Thriller",
+      "minutes": 119,
+      "age": 15,
+      "director": "Jacob West",
+      "isAvailable": true
+    },
+    {
+      "id": "29",
+      "type": "game",
+      "title": "Monster Tactics",
+      "genre": "Strategy",
+      "platform": "PlayStation 5",
+      "age": 12,
+      "isAvailable": true
+    },
+    {
+      "id": "30",
+      "type": "music_album",
+      "artist": "Nova Bloom",
+      "title": "Parallel Beats",
+      "genre": "Electronic",
+      "tracks": 15,
+      "releaseYear": 2024,
+      "isAvailable": true
+    }
+  ],
+  "users": [
+    {
+      "id": "101",
+      "name": "Maria Karlsson",
+      "email": "maria@skola.se",
+      "phone": "0701234567",
+      "membershipDate": "2024-08-15",
+      "isSuspended": false
+    },
+    {
+      "id": "102",
+      "name": "Erik Ostlund",
+      "email": "erik@skola.se",
+      "phone": "0709876543",
+      "membershipDate": "2024-09-01",
+      "isSuspended": true
+    },
+    {
+      "id": "103",
+      "name": "Anna Berg",
+      "email": "anna@skola.se",
+      "phone": "0701112233",
+      "membershipDate": "2025-01-10",
+      "isSuspended": false
+    },
+    {
+      "id": "104",
+      "name": "Johan Lind",
+      "email": "johan@skola.se",
+      "phone": "0702223344",
+      "membershipDate": "2024-11-12",
+      "isSuspended": false
+    },
+    {
+      "id": "105",
+      "name": "Sara Holm",
+      "email": "sara@skola.se",
+      "phone": "0703334455",
+      "membershipDate": "2025-02-02",
+      "isSuspended": false
+    },
+    {
+      "id": "106",
+      "name": "Oscar Nilsson",
+      "email": "oscar@skola.se",
+      "phone": "0704445566",
+      "membershipDate": "2024-10-21",
+      "isSuspended": false
+    },
+    {
+      "id": "107",
+      "name": "Emma Larsson",
+      "email": "emma@skola.se",
+      "phone": "0705556677",
+      "membershipDate": "2025-01-18",
+      "isSuspended": true
+    },
+    {
+      "id": "108",
+      "name": "Lucas Sandberg",
+      "email": "lucas@skola.se",
+      "phone": "0706667788",
+      "membershipDate": "2024-12-05",
+      "isSuspended": false
+    },
+    {
+      "id": "109",
+      "name": "Maja Ek",
+      "email": "maja@skola.se",
+      "phone": "0707778899",
+      "membershipDate": "2025-03-01",
+      "isSuspended": false
+    },
+    {
+      "id": "110",
+      "name": "Filip Norberg",
+      "email": "filip@skola.se",
+      "phone": "0708889900",
+      "membershipDate": "2024-09-25",
+      "isSuspended": false
+    },
+    {
+      "id": "111",
+      "name": "Nora Dahl",
+      "email": "nora@skola.se",
+      "phone": "0709990011",
+      "membershipDate": "2025-02-14",
+      "isSuspended": true
+    },
+    {
+      "id": "112",
+      "name": "Elias Jonsson",
+      "email": "elias@skola.se",
+      "phone": "0701212121",
+      "membershipDate": "2024-08-29",
+      "isSuspended": false
+    },
+    {
+      "id": "113",
+      "name": "Alva Nordin",
+      "email": "alva@skola.se",
+      "phone": "0702323232",
+      "membershipDate": "2025-03-20",
+      "isSuspended": false
+    },
+    {
+      "id": "114",
+      "name": "Hugo Svensson",
+      "email": "hugo@skola.se",
+      "phone": "0703434343",
+      "membershipDate": "2024-10-10",
+      "isSuspended": true
+    },
+    {
+      "id": "115",
+      "name": "Tilda Falk",
+      "email": "tilda@skola.se",
+      "phone": "0704545454",
+      "membershipDate": "2025-01-30",
+      "isSuspended": true
+    }
+  ],
+  "suspendedUsers": [
+    {
+      "id": "1",
+      "userId": "102",
+      "reason": "Late returns",
+      "suspendedFrom": "2026-03-15",
+      "suspendedUntil": "2026-04-15"
+    },
+    {
+      "id": "2",
+      "userId": "107",
+      "reason": "Damaged library material",
+      "suspendedFrom": "2026-03-28",
+      "suspendedUntil": "2026-04-28"
+    },
+    {
+      "id": "3",
+      "userId": "111",
+      "reason": "Unpaid late fee",
+      "suspendedFrom": "2026-04-01",
+      "suspendedUntil": "2026-05-01"
+    },
+    {
+      "id": "4",
+      "userId": "114",
+      "reason": "Multiple overdue loans",
+      "suspendedFrom": "2026-03-20",
+      "suspendedUntil": "2026-04-20"
+    },
+    {
+      "id": "5",
+      "userId": "115",
+      "reason": "Lost borrowed item",
+      "suspendedFrom": "2026-04-05",
+      "suspendedUntil": "2026-05-05"
+    }
+  ],
+  "loans": [
+    {
+      "id": "1",
+      "userId": "101",
+      "itemType": "media",
+      "itemId": "8",
+      "borrowedAt": "2026-04-01",
+      "dueDate": "2026-04-15",
+      "returned": false
+    },
+    {
+      "id": "2",
+      "userId": "101",
+      "itemType": "media",
+      "itemId": "13",
+      "borrowedAt": "2026-04-03",
+      "dueDate": "2026-04-17",
+      "returned": false
+    }
+  ]
+}
