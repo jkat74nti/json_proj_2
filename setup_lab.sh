@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE="cloture/json-server"
+IMAGE="jkatnti/json-server"
 BASE_PORT=3000
 TEMPLATE="student_data/template.json"
 
