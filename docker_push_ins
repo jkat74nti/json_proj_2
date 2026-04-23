@@ -1,1 +1,3 @@
+docker build -t jkatnti/json_proj_2 .
+
 docker push jkatnti/json_proj_2
