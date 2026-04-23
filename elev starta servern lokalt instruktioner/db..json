@@ -26,7 +26,7 @@
       "title": "Shadows in the Fog",
       "genre": "Mystery",
       "pages": 410,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "5",
@@ -47,7 +47,7 @@
       "title": "The Last Kingdom",
       "genre": "Fantasy",
       "pages": 520,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "8",
@@ -68,7 +68,7 @@
       "title": "Broken Promises",
       "genre": "Drama",
       "pages": 290,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "11",
@@ -89,7 +89,7 @@
       "title": "The Empty Room",
       "genre": "Horror",
       "pages": 280,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "14",
@@ -110,7 +110,7 @@
       "title": "Dark Waters",
       "genre": "Thriller",
       "pages": 390,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "17",
@@ -131,7 +131,7 @@
       "title": "The Golden Compass Rose",
       "genre": "Adventure",
       "pages": 440,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "20",
@@ -152,7 +152,7 @@
       "title": "The Forgotten Castle",
       "genre": "Fantasy",
       "pages": 560,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "23",
@@ -173,7 +173,7 @@
       "title": "The Glass Key",
       "genre": "Mystery",
       "pages": 295,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "26",
@@ -194,7 +194,7 @@
       "title": "Threads of Fate",
       "genre": "Drama",
       "pages": 370,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "29",
@@ -215,7 +215,7 @@
       "title": "Beneath the Ice",
       "genre": "Thriller",
       "pages": 360,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "32",
@@ -236,7 +236,7 @@
       "title": "The Last Broadcast",
       "genre": "Science Fiction",
       "pages": 420,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "35",
@@ -257,7 +257,7 @@
       "title": "Map of the Stars",
       "genre": "Adventure",
       "pages": 460,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "38",
@@ -278,7 +278,7 @@
       "title": "The Crystal Empire",
       "genre": "Fantasy",
       "pages": 630,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "41",
@@ -299,7 +299,7 @@
       "title": "The Machine Awakens",
       "genre": "Science Fiction",
       "pages": 510,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "44",
@@ -320,7 +320,7 @@
       "title": "Ashes of Winter",
       "genre": "Drama",
       "pages": 340,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "47",
@@ -341,7 +341,7 @@
       "title": "Parallel Dreams",
       "genre": "Science Fiction",
       "pages": 445,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "50",
@@ -362,7 +362,7 @@
       "title": "The Forgotten Melody",
       "genre": "Drama",
       "pages": 285,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "53",
@@ -383,7 +383,7 @@
       "title": "The Crimson Lake",
       "genre": "Thriller",
       "pages": 375,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "56",
@@ -404,7 +404,7 @@
       "title": "The Missing Hour",
       "genre": "Mystery",
       "pages": 310,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "59",
@@ -425,7 +425,7 @@
       "title": "The Black Lantern",
       "genre": "Horror",
       "pages": 295,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "62",
@@ -446,7 +446,7 @@
       "title": "Beneath Hollow Hills",
       "genre": "Horror",
       "pages": 315,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "65",
@@ -467,7 +467,7 @@
       "title": "The Painted Mask",
       "genre": "Mystery",
       "pages": 345,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "68",
@@ -488,7 +488,7 @@
       "title": "The Fallen Throne",
       "genre": "Fantasy",
       "pages": 600,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "71",
@@ -509,7 +509,7 @@
       "title": "The Frozen Garden",
       "genre": "Drama",
       "pages": 325,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "74",
@@ -530,7 +530,7 @@
       "title": "The Hidden Flame",
       "genre": "Fantasy",
       "pages": 590,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "77",
@@ -551,7 +551,7 @@
       "title": "The Cursed Portrait",
       "genre": "Horror",
       "pages": 285,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "80",
@@ -572,7 +572,7 @@
       "title": "The Amber Path",
       "genre": "Adventure",
       "pages": 405,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "83",
@@ -593,7 +593,7 @@
       "title": "The Hollow Crown",
       "genre": "Fantasy",
       "pages": 625,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "86",
@@ -614,7 +614,7 @@
       "title": "The Paper Bridge",
       "genre": "Drama",
       "pages": 335,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "89",
@@ -635,7 +635,7 @@
       "title": "The Last Summer Letter",
       "genre": "Romance",
       "pages": 260,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "92",
@@ -656,7 +656,7 @@
       "title": "The Whispering Cellar",
       "genre": "Horror",
       "pages": 300,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "95",
@@ -677,7 +677,7 @@
       "title": "The Secret Harbor",
       "genre": "Mystery",
       "pages": 315,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "98",
@@ -698,7 +698,7 @@
       "title": "The Last Light Between Us",
       "genre": "Romance",
       "pages": 285,
-      "isAvailable": false
+      "isAvailable": true
     }
 ],
 "magazines": [
@@ -731,7 +731,7 @@
       "type": "music_album",
       "artist": "Leo van Hal",
       "title": "Guitar heros",
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": "3",
@@ -746,14 +746,12 @@
     {
       "id": "101",
       "name": "Maria Karlsson",
-      "email": "maria@skola.se",
-      "borrowedMediaIds": ["2","3"]
+      "email": "maria@skola.se"
     },
     {
       "id": "102",
       "name": "Erik Ostlund",
-      "email": "erik@skola.se",
-      "borrowedMediaIds": []
+      "email": "erik@skola.se"
     }
   ],
   "suspended": [
