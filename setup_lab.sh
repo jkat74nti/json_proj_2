@@ -18,7 +18,7 @@ do
     --name "elev-server-$i" \
     -p "$PORT:3000" \
     -v "$(pwd)/$STUDENT_DB:/data/db.json" \
-   # --restart always \
+    --restart always \
     $IMAGE
 
   echo "Elev $i startad på port $PORT"
