@@ -16,7 +16,7 @@ do
 
   docker run -d \
     --name "elev-server-$i" \
-    -p "$PORT:3100" \
+    -p "$PORT:3000" \
     -v "$(pwd)/$STUDENT_DB:/data/db.json" \
     --restart always \
     $IMAGE
