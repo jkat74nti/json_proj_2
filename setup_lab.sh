@@ -2,7 +2,7 @@
 
 IMAGE="jkatnti/json_proj_2"
 BASE_PORT=3000
-TEMPLATE="student_data/template.json"
+TEMPLATE="student_data/db.json"
 
 # Använd seq istället för {1..60} för bättre kompabilitet
 for i in $(seq 1 60)
