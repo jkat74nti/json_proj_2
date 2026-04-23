@@ -1,0 +1,763 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Ringo with License to Please",
+      "genre": "Crime",
+      "pages": 450,
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "title": "Ringo Can Read",
+      "genre": "Drama",
+      "pages": 250,
+      "isAvailable": true
+    },
+    {
+      "id": "3",
+      "title": "The Silent Witness",
+      "genre": "Crime",
+      "pages": 320,
+      "isAvailable": true
+    },
+    {
+      "id": "4",
+      "title": "Shadows in the Fog",
+      "genre": "Mystery",
+      "pages": 410,
+      "isAvailable": true
+    },
+    {
+      "id": "5",
+      "title": "Beyond the Horizon",
+      "genre": "Adventure",
+      "pages": 380,
+      "isAvailable": true
+    },
+    {
+      "id": "6",
+      "title": "Love in Autumn",
+      "genre": "Romance",
+      "pages": 275,
+      "isAvailable": true
+    },
+    {
+      "id": "7",
+      "title": "The Last Kingdom",
+      "genre": "Fantasy",
+      "pages": 520,
+      "isAvailable": true
+    },
+    {
+      "id": "8",
+      "title": "Midnight Streets",
+      "genre": "Thriller",
+      "pages": 340,
+      "isAvailable": true
+    },
+    {
+      "id": "9",
+      "title": "The Hidden Code",
+      "genre": "Science Fiction",
+      "pages": 460,
+      "isAvailable": true
+    },
+    {
+      "id": "10",
+      "title": "Broken Promises",
+      "genre": "Drama",
+      "pages": 290,
+      "isAvailable": true
+    },
+    {
+      "id": "11",
+      "title": "The Secret Garden Path",
+      "genre": "Romance",
+      "pages": 310,
+      "isAvailable": true
+    },
+    {
+      "id": "12",
+      "title": "Fire Over the Mountains",
+      "genre": "Adventure",
+      "pages": 430,
+      "isAvailable": true
+    },
+    {
+      "id": "13",
+      "title": "The Empty Room",
+      "genre": "Horror",
+      "pages": 280,
+      "isAvailable": true
+    },
+    {
+      "id": "14",
+      "title": "A Winter to Remember",
+      "genre": "Drama",
+      "pages": 350,
+      "isAvailable": true
+    },
+    {
+      "id": "15",
+      "title": "The Iron Crown",
+      "genre": "Fantasy",
+      "pages": 610,
+      "isAvailable": true
+    },
+    {
+      "id": "16",
+      "title": "Dark Waters",
+      "genre": "Thriller",
+      "pages": 390,
+      "isAvailable": true
+    },
+    {
+      "id": "17",
+      "title": "The Lost Planet",
+      "genre": "Science Fiction",
+      "pages": 470,
+      "isAvailable": true
+    },
+    {
+      "id": "18",
+      "title": "Echoes of Yesterday",
+      "genre": "Drama",
+      "pages": 260,
+      "isAvailable": true
+    },
+    {
+      "id": "19",
+      "title": "The Golden Compass Rose",
+      "genre": "Adventure",
+      "pages": 440,
+      "isAvailable": true
+    },
+    {
+      "id": "20",
+      "title": "Whispers at Dawn",
+      "genre": "Mystery",
+      "pages": 300,
+      "isAvailable": true
+    },
+    {
+      "id": "21",
+      "title": "Moonlight Sonata",
+      "genre": "Romance",
+      "pages": 240,
+      "isAvailable": true
+    },
+    {
+      "id": "22",
+      "title": "The Forgotten Castle",
+      "genre": "Fantasy",
+      "pages": 560,
+      "isAvailable": true
+    },
+    {
+      "id": "23",
+      "title": "Dead End Road",
+      "genre": "Crime",
+      "pages": 330,
+      "isAvailable": true
+    },
+    {
+      "id": "24",
+      "title": "Stormbreaker Island",
+      "genre": "Adventure",
+      "pages": 410,
+      "isAvailable": true
+    },
+    {
+      "id": "25",
+      "title": "The Glass Key",
+      "genre": "Mystery",
+      "pages": 295,
+      "isAvailable": true
+    },
+    {
+      "id": "26",
+      "title": "City of Ashes",
+      "genre": "Fantasy",
+      "pages": 490,
+      "isAvailable": true
+    },
+    {
+      "id": "27",
+      "title": "The Crimson Hour",
+      "genre": "Horror",
+      "pages": 310,
+      "isAvailable": true
+    },
+    {
+      "id": "28",
+      "title": "Threads of Fate",
+      "genre": "Drama",
+      "pages": 370,
+      "isAvailable": true
+    },
+    {
+      "id": "29",
+      "title": "The Quantum Voyage",
+      "genre": "Science Fiction",
+      "pages": 540,
+      "isAvailable": true
+    },
+    {
+      "id": "30",
+      "title": "A Place Called Home",
+      "genre": "Romance",
+      "pages": 280,
+      "isAvailable": true
+    },
+    {
+      "id": "31",
+      "title": "Beneath the Ice",
+      "genre": "Thriller",
+      "pages": 360,
+      "isAvailable": true
+    },
+    {
+      "id": "32",
+      "title": "The Raven's Mark",
+      "genre": "Fantasy",
+      "pages": 580,
+      "isAvailable": true
+    },
+    {
+      "id": "33",
+      "title": "Crossing the Line",
+      "genre": "Crime",
+      "pages": 345,
+      "isAvailable": true
+    },
+    {
+      "id": "34",
+      "title": "The Last Broadcast",
+      "genre": "Science Fiction",
+      "pages": 420,
+      "isAvailable": true
+    },
+    {
+      "id": "35",
+      "title": "Summer of Secrets",
+      "genre": "Drama",
+      "pages": 315,
+      "isAvailable": true
+    },
+    {
+      "id": "36",
+      "title": "The Hollow Tree",
+      "genre": "Horror",
+      "pages": 290,
+      "isAvailable": true
+    },
+    {
+      "id": "37",
+      "title": "Map of the Stars",
+      "genre": "Adventure",
+      "pages": 460,
+      "isAvailable": true
+    },
+    {
+      "id": "38",
+      "title": "The Velvet Letter",
+      "genre": "Romance",
+      "pages": 255,
+      "isAvailable": true
+    },
+    {
+      "id": "39",
+      "title": "No Turning Back",
+      "genre": "Thriller",
+      "pages": 400,
+      "isAvailable": true
+    },
+    {
+      "id": "40",
+      "title": "The Crystal Empire",
+      "genre": "Fantasy",
+      "pages": 630,
+      "isAvailable": true
+    },
+    {
+      "id": "41",
+      "title": "Fragments of Truth",
+      "genre": "Mystery",
+      "pages": 325,
+      "isAvailable": true
+    },
+    {
+      "id": "42",
+      "title": "Under Scarlet Skies",
+      "genre": "Romance",
+      "pages": 295,
+      "isAvailable": true
+    },
+    {
+      "id": "43",
+      "title": "The Machine Awakens",
+      "genre": "Science Fiction",
+      "pages": 510,
+      "isAvailable": true
+    },
+    {
+      "id": "44",
+      "title": "The Broken Compass",
+      "genre": "Adventure",
+      "pages": 390,
+      "isAvailable": true
+    },
+    {
+      "id": "45",
+      "title": "Cold Case River",
+      "genre": "Crime",
+      "pages": 355,
+      "isAvailable": true
+    },
+    {
+      "id": "46",
+      "title": "Ashes of Winter",
+      "genre": "Drama",
+      "pages": 340,
+      "isAvailable": true
+    },
+    {
+      "id": "47",
+      "title": "The Lantern Keeper",
+      "genre": "Fantasy",
+      "pages": 550,
+      "isAvailable": true
+    },
+    {
+      "id": "48",
+      "title": "Nightfall Manor",
+      "genre": "Horror",
+      "pages": 305,
+      "isAvailable": true
+    },
+    {
+      "id": "49",
+      "title": "Parallel Dreams",
+      "genre": "Science Fiction",
+      "pages": 445,
+      "isAvailable": true
+    },
+    {
+      "id": "50",
+      "title": "The Secret Between Us",
+      "genre": "Romance",
+      "pages": 270,
+      "isAvailable": true
+    },
+    {
+      "id": "51",
+      "title": "Edge of Justice",
+      "genre": "Crime",
+      "pages": 365,
+      "isAvailable": true
+    },
+    {
+      "id": "52",
+      "title": "The Forgotten Melody",
+      "genre": "Drama",
+      "pages": 285,
+      "isAvailable": true
+    },
+    {
+      "id": "53",
+      "title": "The Burning Sky",
+      "genre": "Adventure",
+      "pages": 415,
+      "isAvailable": true
+    },
+    {
+      "id": "54",
+      "title": "The Seventh Door",
+      "genre": "Mystery",
+      "pages": 305,
+      "isAvailable": true
+    },
+    {
+      "id": "55",
+      "title": "The Crimson Lake",
+      "genre": "Thriller",
+      "pages": 375,
+      "isAvailable": true
+    },
+    {
+      "id": "56",
+      "title": "Winds of Tomorrow",
+      "genre": "Science Fiction",
+      "pages": 495,
+      "isAvailable": true
+    },
+    {
+      "id": "57",
+      "title": "The Marble Tower",
+      "genre": "Fantasy",
+      "pages": 570,
+      "isAvailable": true
+    },
+    {
+      "id": "58",
+      "title": "The Missing Hour",
+      "genre": "Mystery",
+      "pages": 310,
+      "isAvailable": true
+    },
+    {
+      "id": "59",
+      "title": "The River of Glass",
+      "genre": "Adventure",
+      "pages": 425,
+      "isAvailable": true
+    },
+    {
+      "id": "60",
+      "title": "Letters Never Sent",
+      "genre": "Romance",
+      "pages": 265,
+      "isAvailable": true
+    },
+    {
+      "id": "61",
+      "title": "The Black Lantern",
+      "genre": "Horror",
+      "pages": 295,
+      "isAvailable": true
+    },
+    {
+      "id": "62",
+      "title": "Fragments of the Moon",
+      "genre": "Fantasy",
+      "pages": 615,
+      "isAvailable": true
+    },
+    {
+      "id": "63",
+      "title": "The Quiet Suspect",
+      "genre": "Crime",
+      "pages": 335,
+      "isAvailable": true
+    },
+    {
+      "id": "64",
+      "title": "Beneath Hollow Hills",
+      "genre": "Horror",
+      "pages": 315,
+      "isAvailable": true
+    },
+    {
+      "id": "65",
+      "title": "The Final Orbit",
+      "genre": "Science Fiction",
+      "pages": 530,
+      "isAvailable": true
+    },
+    {
+      "id": "66",
+      "title": "When the Rain Stops",
+      "genre": "Drama",
+      "pages": 300,
+      "isAvailable": true
+    },
+    {
+      "id": "67",
+      "title": "The Painted Mask",
+      "genre": "Mystery",
+      "pages": 345,
+      "isAvailable": true
+    },
+    {
+      "id": "68",
+      "title": "Hearts in Winter",
+      "genre": "Romance",
+      "pages": 255,
+      "isAvailable": true
+    },
+    {
+      "id": "69",
+      "title": "The Steel Frontier",
+      "genre": "Adventure",
+      "pages": 470,
+      "isAvailable": true
+    },
+    {
+      "id": "70",
+      "title": "The Fallen Throne",
+      "genre": "Fantasy",
+      "pages": 600,
+      "isAvailable": true
+    },
+    {
+      "id": "71",
+      "title": "Crimson Evidence",
+      "genre": "Crime",
+      "pages": 360,
+      "isAvailable": true
+    },
+    {
+      "id": "72",
+      "title": "The Vanishing Point",
+      "genre": "Thriller",
+      "pages": 385,
+      "isAvailable": true
+    },
+    {
+      "id": "73",
+      "title": "The Frozen Garden",
+      "genre": "Drama",
+      "pages": 325,
+      "isAvailable": true
+    },
+    {
+      "id": "74",
+      "title": "Stars Beyond Reach",
+      "genre": "Science Fiction",
+      "pages": 515,
+      "isAvailable": true
+    },
+    {
+      "id": "75",
+      "title": "The Silver Compass",
+      "genre": "Adventure",
+      "pages": 435,
+      "isAvailable": true
+    },
+    {
+      "id": "76",
+      "title": "The Hidden Flame",
+      "genre": "Fantasy",
+      "pages": 590,
+      "isAvailable": true
+    },
+    {
+      "id": "77",
+      "title": "A Thousand Goodbyes",
+      "genre": "Romance",
+      "pages": 275,
+      "isAvailable": true
+    },
+    {
+      "id": "78",
+      "title": "The Last Alibi",
+      "genre": "Crime",
+      "pages": 340,
+      "isAvailable": true
+    },
+    {
+      "id": "79",
+      "title": "The Cursed Portrait",
+      "genre": "Horror",
+      "pages": 285,
+      "isAvailable": true
+    },
+    {
+      "id": "80",
+      "title": "The Midnight Archive",
+      "genre": "Mystery",
+      "pages": 320,
+      "isAvailable": true
+    },
+    {
+      "id": "81",
+      "title": "Orbit of Ashes",
+      "genre": "Science Fiction",
+      "pages": 500,
+      "isAvailable": true
+    },
+    {
+      "id": "82",
+      "title": "The Amber Path",
+      "genre": "Adventure",
+      "pages": 405,
+      "isAvailable": true
+    },
+    {
+      "id": "83",
+      "title": "A Season of Silence",
+      "genre": "Drama",
+      "pages": 310,
+      "isAvailable": true
+    },
+    {
+      "id": "84",
+      "title": "The Moonlit Harbor",
+      "genre": "Romance",
+      "pages": 245,
+      "isAvailable": true
+    },
+    {
+      "id": "85",
+      "title": "The Hollow Crown",
+      "genre": "Fantasy",
+      "pages": 625,
+      "isAvailable": true
+    },
+    {
+      "id": "86",
+      "title": "The Last Passenger",
+      "genre": "Thriller",
+      "pages": 395,
+      "isAvailable": true
+    },
+    {
+      "id": "87",
+      "title": "The Sixth Signal",
+      "genre": "Science Fiction",
+      "pages": 480,
+      "isAvailable": true
+    },
+    {
+      "id": "88",
+      "title": "The Paper Bridge",
+      "genre": "Drama",
+      "pages": 335,
+      "isAvailable": true
+    },
+    {
+      "id": "89",
+      "title": "The Shadow Trial",
+      "genre": "Crime",
+      "pages": 350,
+      "isAvailable": true
+    },
+    {
+      "id": "90",
+      "title": "The Sapphire Forest",
+      "genre": "Fantasy",
+      "pages": 565,
+      "isAvailable": true
+    },
+    {
+      "id": "91",
+      "title": "The Last Summer Letter",
+      "genre": "Romance",
+      "pages": 260,
+      "isAvailable": true
+    },
+    {
+      "id": "92",
+      "title": "The Empty Station",
+      "genre": "Mystery",
+      "pages": 290,
+      "isAvailable": true
+    },
+    {
+      "id": "93",
+      "title": "The Red Horizon",
+      "genre": "Adventure",
+      "pages": 455,
+      "isAvailable": true
+    },
+    {
+      "id": "94",
+      "title": "The Whispering Cellar",
+      "genre": "Horror",
+      "pages": 300,
+      "isAvailable": true
+    },
+    {
+      "id": "95",
+      "title": "The Neon Frontier",
+      "genre": "Science Fiction",
+      "pages": 525,
+      "isAvailable": true
+    },
+    {
+      "id": "96",
+      "title": "The Winter Guest",
+      "genre": "Drama",
+      "pages": 320,
+      "isAvailable": true
+    },
+    {
+      "id": "97",
+      "title": "The Secret Harbor",
+      "genre": "Mystery",
+      "pages": 315,
+      "isAvailable": true
+    },
+    {
+      "id": "98",
+      "title": "The Golden Hourglass",
+      "genre": "Fantasy",
+      "pages": 605,
+      "isAvailable": true
+    },
+    {
+      "id": "99",
+      "title": "The Night Detective",
+      "genre": "Crime",
+      "pages": 370,
+      "isAvailable": true
+    },
+    {
+      "id": "100",
+      "title": "The Last Light Between Us",
+      "genre": "Romance",
+      "pages": 285,
+      "isAvailable": true
+    }
+],
+"magazines": [
+    {
+      "id": "1",
+      "type": "magazine",
+      "title": "Tech World",
+      "issueNumber": 12,
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "type": "magazine",
+      "title": "Tech World",
+      "issueNumber": 11,
+      "isAvailable": true
+    }
+],
+  "media": [
+    {
+      "id": "1",
+      "type": "game",
+      "title": "Shooting Star",
+      "genre": "Action",
+      "age": 15,
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "type": "music_album",
+      "artist": "Leo van Hal",
+      "title": "Guitar heros",
+      "isAvailable": true
+    },
+    {
+      "id": "3",
+      "type": "movie",
+      "title": "Learn Python",
+      "genre":"comedy",
+      "minutes": 117,
+      "isAvailable": true
+    }
+  ],
+  "users": [
+    {
+      "id": "101",
+      "name": "Maria Karlsson",
+      "email": "maria@skola.se"
+    },
+    {
+      "id": "102",
+      "name": "Erik Ostlund",
+      "email": "erik@skola.se"
+    }
+  ],
+  "suspended": [
+    {
+      "id": "1",
+      "customer_id": "102"
+    }
+]
+}
