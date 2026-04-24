@@ -5,7 +5,7 @@ BASE_PORT=3100
 TEMPLATE="student_data/db.json"
 
 # Använd seq istället för {1..60} för bättre kompabilitet
-for i in $(seq 1 50)
+for i in $(seq 1 60)
 do
   PORT=$((BASE_PORT + i))
   STUDENT_DB="student_data/db_student_$i.json"
